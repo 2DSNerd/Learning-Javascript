@@ -1,0 +1,13 @@
+h1,
+h2 {
+  font-family: Lato;
+}
+
+.number {
+  font-size: larger;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.demo {
+  font-family: cursive;
+}
